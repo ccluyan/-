@@ -58,7 +58,7 @@ templates/: 内置于代码中，无需额外文件
  增加 SSL 证书过期检测
  增加 Whois 自动查询
 
-![截图说明](screenshots/图片名.png)
+![截图说明](screenshots/效果图.png)
 
 Made with ❤️ by [ccluyan]
 
