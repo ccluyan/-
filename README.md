@@ -59,7 +59,8 @@ templates/: 内置于代码中，无需额外文件
  增加 Whois 自动查询
 
 ![截图说明]
-<img width="1271" height="753" alt="image" src="https://github.com/user-attachments/assets/60cf8a99-8491-4a40-b45a-0eeefc015ea7" />
+<img width="1268" height="752" alt="image" src="https://github.com/user-attachments/assets/7df7f1af-6c70-46c2-98a4-ecf834537fcf" />
+
 
 
 Made with ❤️ by [ccluyan]
