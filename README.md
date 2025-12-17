@@ -60,7 +60,12 @@ templates/: 内置于代码中，无需额外文件
  增加 Whois 自动查询
 
 
+## 🤝 贡献与反馈
+欢迎提交 issues 报告 Bug 或提出功能建议也欢迎提交 Pull Request 贡献代码。
 
+---
+## 📜 许可证
+本项目采用 [MIT License](LICENSE) 许可。
 
 
 
