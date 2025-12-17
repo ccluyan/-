@@ -1,6 +1,7 @@
 # 🌐 Domain Monitor Pro (轻量级域名监控面板)
 
 基于 Flask 开发的单文件域名监控工具。支持批量管理、状态检测、到期时间记录，并内置多种主题与云端备份功能。
+<img width="1290" height="771" alt="效果图" src="https://github.com/user-attachments/assets/f245254a-5c2f-470b-a3a3-f9d84b015a74" />
 
 ##✨ 核心功能
 
