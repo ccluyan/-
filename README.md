@@ -58,8 +58,9 @@ templates/: 内置于代码中，无需额外文件
  增加 SSL 证书过期检测
  增加 Whois 自动查询
 
-![截图说明]
-<img width="1268" height="752" alt="image" src="https://github.com/user-attachments/assets/7df7f1af-6c70-46c2-98a4-ecf834537fcf" />
+
+<img width="1271" height="756" alt="image" src="https://github.com/user-attachments/assets/bc1a0a80-8d8e-46ac-a18d-736a4153a846" />
+
 
 
 
