@@ -2,7 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+*.pyc
+*.db
+*.sqlite
+instance/
+static_uploads/
+.env
 # C extensions
 *.so
 
@@ -28,11 +33,11 @@ MANIFEST
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
+# 在 PyInstaller 构建 exe 之前，以便注入日期/其他信息。
+*.清单
 *.spec
 
-# Installer logs
+# 安装程序日志
 pip-log.txt
 pip-delete-this-directory.txt
 
