@@ -59,7 +59,6 @@ templates/: 内置于代码中，无需额外文件
  增加 SSL 证书过期检测
  增加 Whois 自动查询
 
-![截图说明](https://github.com/user-attachments/assets/60cf8a99-8491-4a40-b45a-0eeefc015ea7)
 
 
 
